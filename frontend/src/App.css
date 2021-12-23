@@ -37,7 +37,7 @@ table th::before {
   display: flex;
   flex-direction: column;
   padding: 20px;
-  color: #00000094
+  color: #00000094;
 }
 
 .App-logo {
